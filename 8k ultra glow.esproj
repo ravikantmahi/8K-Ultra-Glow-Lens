@@ -1,0 +1,54 @@
+studioVersion:
+  major: 5
+  minor: 20
+  patch: 0
+  build: 26040820
+  type: Public
+coreVersion: 356
+clientVersion: 13.86
+updateCheckpoint: 96
+sceneId: 0a1ccb1a-fe88-4fbb-9883-e3af3c75fd99
+metaInfo:
+  hints:
+    []
+  tags:
+    []
+  lensName: 8K Ultra Glow
+  lensDescriptors:
+    []
+  lensApplicableContext:
+    - live_camera
+    - reply_camera
+    - video_chat
+  lensApplicability:
+    - Front
+    - Back
+  lensClientCompatibilities:
+    - Mobile
+    - Web
+    - CameraKit
+  platformBundlesEnabled: false
+  iconHash: fbb6c9e7c49ea8ba32f230f4d3011b3f
+  videoPreviewHash: 98f9d6e3c53a6726bcc5a2e56b7ba10d
+  fromTemplateName: Default
+  fromTemplateUrl: Lens Studio 5.20.0.26040820
+  activationCamera: Rear
+  sourceMapEnabled: false
+  shaderCacheInvalidationEnabled: false
+  usingMinClientVersions: false
+  androidMinClientVersion:
+    major: 0
+    minor: 0
+    patch: 0
+    build: 0
+  iOSMinClientVersion:
+    major: 0
+    minor: 0
+    patch: 0
+    build: 0
+  documentId: e6474f8e-87e4-4549-9c5e-b3dd4d2a709c
+  originalDocumentId: f3d524c5-ac07-44a7-b03a-e07d591396ec
+  packageId: ""
+  packageVersion: ""
+  spkPrivilegeLevel: Generic
+  gluboEnabled: false

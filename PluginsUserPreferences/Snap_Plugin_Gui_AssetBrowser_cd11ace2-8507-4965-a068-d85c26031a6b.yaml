@@ -1,0 +1,16 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 10
+    values:
+      - Easy Lens
+      - Easy Lens/Generated Assets
+      - Easy Lens/Generated Assets/Studio-Style_Portrait_Frame_With_Glow_And_Pastel_Leaks.png
+      - Easy Lens/Lens Components
+      - Easy Lens/Lens Components/3D Lens Frame_5.17.lsc
+      - Easy Lens/Lens Components/Adjust_5.12.lsc
+      - Easy Lens/Lens Components/Blur_5.12.lsc
+      - Easy Lens/Lens Components/Face Retouch_5.14.lsc
+      - Easy Lens/Lens Components/KiraKira Sparkle_5.17.1.lsc
+      - Easy Lens/Lens Components/Lens Frame 2D.lsc
+  options: 4
